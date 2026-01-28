@@ -34,7 +34,8 @@ function Header() {
                 setMobileMenuOpen(false);
             }
         } else {
-            navigate(`/${targetId}`);
+            // With HashRouter we want to end up at /#<id>
+            navigate(`/${targetId}`.replace('/#', '/'));
             // HomePage useEffect will handle the scroll on mount
         }
     };
