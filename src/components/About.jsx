@@ -5,7 +5,7 @@ function About() {
         <section className="about">
             <div className="about-container">
                 <img
-                    src="/images/Asset-4.png"
+                    src="images/Asset-4.png"
                     alt="Playgarden Film"
                     className="about-logo"
                 />

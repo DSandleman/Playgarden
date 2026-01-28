@@ -6,42 +6,42 @@ const services = [
     {
         title: 'Innhold til event og arrangement',
         description: 'Når arrangementet trenger det ekstra kruttet, eller du bare ønsker en fet aftermovie.',
-        image: '/images/B-1020-re-scaled.jpg'
+        image: 'images/B-1020-re-scaled.jpg'
     },
     {
         title: 'Reklame',
         description: 'Skap interesse, vekk oppmerksomhet og påvirk holdninger eller handlinger.',
-        image: '/images/Trygg-Trafikk-Juleselskap-46s-v5-Copy-010-scaled.png'
+        image: 'images/Trygg-Trafikk-Juleselskap-46s-v5-Copy-010-scaled.png'
     },
     {
         title: 'TV- og dokumentarserier',
         description: 'Vi i playgarden har bakrunn fra TV-bransjen, og vi brenner for å lage de gode historiene.',
-        image: '/images/DSC08419-scaled.jpg'
+        image: 'images/DSC08419-scaled.jpg'
     },
     {
         title: 'Informasjonsfilmer',
         description: 'Gjør komplekse temaer lette å formidle.',
-        image: '/images/20240411-Skjermbilde-2024-04-11-kl.-10.49.05.webp'
+        image: 'images/20240411-Skjermbilde-2024-04-11-kl.-10.49.05.webp'
     },
     {
         title: 'Fotografering',
         description: 'Et pent smil er smittsomt.',
-        image: '/images/om-oss-playgarden-1.webp'
+        image: 'images/om-oss-playgarden-1.webp'
     },
     {
         title: 'Drone',
         description: 'Fra et helt annet perspektiv.',
-        image: '/images/Technopolis-UTOT.jpg'
+        image: 'images/Technopolis-UTOT.jpg'
     },
     {
         title: 'Grafikk og animasjon',
         description: 'Skap liv og effekter i statiske bilder.',
-        image: '/images/Asset-26-svg.png'
+        image: 'images/Asset-26-svg.png'
     },
     {
         title: 'Medietrening',
         description: 'Bygg tillit, omdømme og kommuniser effektivt i media.',
-        image: '/images/20230928-DSC04817.webp'
+        image: 'images/20230928-DSC04817.webp'
     }
 ];
 

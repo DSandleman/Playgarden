@@ -2,79 +2,79 @@ export const productionsData = [
     {
         id: 'trygg-trafikk',
         title: 'Trygg Trafikk',
-        image: '/images/trygg-trafikk-logo.webp', // Using logo as fallback
+        image: 'images/trygg-trafikk-logo.webp', // Using logo as fallback
         link: '/produksjoner/trygg-trafikk'
     },
     {
         id: 'fagbokforlaget',
         title: 'Fagbokforlaget',
-        image: '/images/fagbokforlaget-logo.webp',
+        image: 'images/fagbokforlaget-logo.webp',
         link: '/produksjoner/fagbokforlaget'
     },
     {
         id: 'biofokus',
         title: 'Biofokus',
-        image: '/images/Asset-4.png', // Fallback
+        image: 'images/Asset-4.png', // Fallback
         link: '/produksjoner/biofokus'
     },
     {
         id: 'idiotene-pa-jobben',
         title: 'Idiotene på jobben',
-        image: '/images/monster-logo.webp', // Monster produced it?
+        image: 'images/monster-logo.webp', // Monster produced it?
         link: '/produksjoner/idiotene-pa-jobben'
     },
     {
         id: 'technopolis',
         title: 'Technopolis',
-        image: '/images/Technopolis-UTOT.jpg', // Found in Services
+        image: 'images/Technopolis-UTOT.jpg', // Found in Services
         link: '/produksjoner/technopolis'
     },
     {
         id: 'malling',
         title: 'Malling',
-        image: '/images/Asset-4.png',
+        image: 'images/Asset-4.png',
         link: '/produksjoner/malling'
     },
     {
         id: 'yle',
         title: 'Yle',
-        image: '/images/yle-logo.webp',
+        image: 'images/yle-logo.webp',
         link: '/produksjoner/yle'
     },
     {
         id: 'kjolesnekkeren',
         title: 'Kjolesnekkeren',
-        image: '/images/Asset-4.png',
+        image: 'images/Asset-4.png',
         link: '/produksjoner/kjolesnekkeren'
     },
     {
         id: 'tinn-kommune',
         title: 'Tinn Kommune',
-        image: '/images/tinn-kommune-logo.webp',
+        image: 'images/tinn-kommune-logo.webp',
         link: '/produksjoner/tinn-kommune'
     },
     {
         id: 'dnb',
         title: 'DNB',
-        image: '/images/dnb-logo.webp',
+        image: 'images/dnb-logo.webp',
         link: '/produksjoner/dnb'
     },
     {
         id: 'tvedestrand-kommune',
         title: 'Tvedestrand kommune',
-        image: '/images/tvedestrand-kommune-logo.webp',
+        image: 'images/tvedestrand-kommune-logo.webp',
         link: '/produksjoner/tvedestrand-kommune'
     },
     {
         id: 'aschehoug',
         title: 'Aschehoug',
-        image: '/images/aschehoug-logo-1.webp',
+        image: 'images/aschehoug-logo-1.webp',
         link: '/produksjoner/aschehoug'
     },
     {
         id: 'tannbuen',
         title: 'Tannbuen',
-        image: '/images/tannbuen-logo.webp',
+        image: 'images/tannbuen-logo.webp',
         link: '/produksjoner/tannbuen'
     }
 ];
@@ -104,11 +104,11 @@ export const productionDetails = {
             {
                 type: 'gallery',
                 images: [
-                    '/images/Trygg-Trafikk-Juleselskap-lita-jente-1.1-300x162.png',
-                    '/images/Trygg-Trafikk-Juleselskap-jentene1.1-300x162.png',
-                    '/images/Trygg-Trafikk-Juleselskap-46s-v5-Copy-010-300x169.png',
-                    '/images/Trygg-Trafikk-Sommerselskap-gutt1-300x169.jpg',
-                    '/images/Trygg-Trafikk-Sommerselskap-Kis1-300x162.jpeg'
+                    'images/Trygg-Trafikk-Juleselskap-lita-jente-1.1-300x162.png',
+                    'images/Trygg-Trafikk-Juleselskap-jentene1.1-300x162.png',
+                    'images/Trygg-Trafikk-Juleselskap-46s-v5-Copy-010-300x169.png',
+                    'images/Trygg-Trafikk-Sommerselskap-gutt1-300x169.jpg',
+                    'images/Trygg-Trafikk-Sommerselskap-Kis1-300x162.jpeg'
                 ]
             },
             {

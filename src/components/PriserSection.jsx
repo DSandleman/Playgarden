@@ -22,7 +22,7 @@ function PriserSection() {
                 <div className="card" style={{ padding: '3rem', position: 'relative', overflow: 'hidden' }}>
                     {/* Decorative Background Icon */}
                     <img
-                        src="/images/Asset-4.png"
+                        src="images/Asset-4.png"
                         alt=""
                         style={{
                             position: 'absolute',
@@ -37,7 +37,7 @@ function PriserSection() {
 
                     <div style={{ position: 'relative', zIndex: 1 }}>
                         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
-                            <img src="/images/Asset-4.png" alt="Playgarden Logo Icon" width="80" height="80" style={{ marginBottom: '1rem' }} />
+                            <img src="images/Asset-4.png" alt="Playgarden Logo Icon" width="80" height="80" style={{ marginBottom: '1rem' }} />
                         </div>
 
                         <p style={{ fontSize: '1.1rem', lineHeight: '1.8', marginBottom: '1.5rem' }}>

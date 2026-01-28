@@ -11,7 +11,7 @@ const teamMembers = [
         ],
         phone: '+47 951 98 803',
         email: 'iris@playgarden.no',
-        image: '/images/20240320-DSC09857-1024x576.jpg' // Placeholder, will verify
+        image: 'images/20240320-DSC09857-1024x576.jpg' // Placeholder, will verify
     },
     {
         name: 'Thomas Thomassen',
@@ -22,7 +22,7 @@ const teamMembers = [
         ],
         phone: '+47 906 906 27',
         email: 'thomas@playgarden.no',
-        image: '/images/20240320-DSC09927-1024x576.jpg'
+        image: 'images/20240320-DSC09927-1024x576.jpg'
     },
     {
         name: 'John Kleppe',
@@ -33,7 +33,7 @@ const teamMembers = [
         ],
         phone: '+47 45 22 88 06',
         email: 'john@playgarden.no',
-        image: '/images/20240320-DSC09904-1024x576.jpg'
+        image: 'images/20240320-DSC09904-1024x576.jpg'
     },
     {
         name: 'Andreas Reinhardt',
@@ -43,7 +43,7 @@ const teamMembers = [
             'Aller best liker han å være med på hele prosessen, fra planleggingsstadiet til ferdigstilt film. Det spiller ingen rolle om det er snakk om en omfattende kortfilm eller en enkel informasjonsfilm; Andreas legger uansett sjela si i å få til et best mulig resultat.',
             'Når han ikke jobber med Playgarden og film, sitter han gjerne i sitt hjemmestudio og spiller inn egenkomponerte rockelåter.'
         ],
-        image: '/images/playgarden-andreas-1.webp'
+        image: 'images/playgarden-andreas-1.webp'
     },
     {
         name: 'Molly',
@@ -52,7 +52,7 @@ const teamMembers = [
             'Molly er kontorets gledesspreder og er overlykkelig for å komme på jobb.',
             'Hun står i bresjen for velkomstkomitéen og får aldri nok kos.'
         ],
-        image: '/images/playgarden-molly.webp'
+        image: 'images/playgarden-molly.webp'
     }
 ];
 
@@ -98,7 +98,7 @@ function OmOssSection() {
                                     src={member.image}
                                     alt={member.name}
                                     style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
-                                    onError={(e) => { e.target.onerror = null; e.target.src = '/images/Asset-4.png'; }} // Fallback
+                                    onError={(e) => { e.target.onerror = null; e.target.src = 'images/Asset-4.png'; }} // Fallback
                                 />
                             </div>
                             <div style={{ textAlign: 'center', flexGrow: 1, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>

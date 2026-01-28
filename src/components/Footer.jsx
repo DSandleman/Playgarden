@@ -5,7 +5,7 @@ function Footer() {
         <footer style={{ backgroundColor: 'var(--color-footer-bg)', color: 'var(--color-footer-text)', padding: '4rem 0', marginTop: 'auto', transition: 'all 0.3s ease' }}>
             <div className="container" style={{ textAlign: 'center' }}>
                 <a href="/" style={{ display: 'inline-block', marginBottom: '1.5rem' }}>
-                    <img src="/images/Asset-4.png" alt="Playgarden Film" style={{ width: '150px' }} />
+                    <img src="images/Asset-4.png" alt="Playgarden Film" style={{ width: '150px' }} />
                 </a>
                 <h2 style={{ fontSize: '1.5rem', marginBottom: '2rem', fontFamily: 'var(--font-secondary)' }}>Playgarden Film</h2>
 
